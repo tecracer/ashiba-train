@@ -1,0 +1,15 @@
+---
+name: ashiba-train
+format_version: 1
+version: 1.0.0
+summary: Template for Train transports
+description: |
+  Nothing right now
+variables:
+  name: ''
+  version: 0.1.0
+  author: John Doe
+  email: john.doe@example.com
+  summary: Train transport
+  description: Provides additional transport capabilities
+  url: https://example.com
